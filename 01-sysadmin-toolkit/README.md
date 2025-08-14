@@ -1,16 +1,24 @@
-# 🧰 Linux Toolkit - SysAdmin Edition
+# 🧰 Linux Toolkit — SysAdmin Edition
 
-Este script en Bash automatiza tareas básicas de diagnóstico y mantenimiento en sistemas Linux. Ideal para estudiantes de ciberseguridad, administradores de sistemas y entusiastas de la terminal.
+This Bash script automates basic diagnostic and maintenance tasks for Linux systems.
+Perfect for cybersecurity students, system administrators, and terminal enthusiasts.
 
-## 📋 Funciones:
-- Ver información del sistema
-- Verificar actualizaciones (apt)
-- Revisar puertos abiertos (ss)
-- Listar servicios activos
-- Ver logs del sistema
-- Crear backups comprimidos de carpetas
+📋 Features
 
-## 🚀 Ejecución
-```bash
+View system information
+
+Check for available updates (apt)
+
+List open ports (ss)
+
+Display active services
+
+View system logs
+
+Create compressed backups of directories
+
+🚀 Execution
+
 chmod +x toolkit.sh
+
 ./toolkit.sh
