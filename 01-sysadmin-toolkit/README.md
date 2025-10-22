@@ -51,6 +51,16 @@ chmod +x toolkit.sh
 | `tar`, `gzip`, `cp`             | Backup and compression tasks      | Tareas de respaldo y compresión            |
 | `journalctl`, `cat`, `grep`     | Log viewing and filtering         | Visualización y filtrado de registros      |
 
+## 🖼️ Screenshot / Captura de Ejecución
+
+**EN:**  
+Below is an example of the script running on Kali Linux, showing the system information output.  
+
+**ES:**  
+A continuación se muestra un ejemplo del script ejecutándose en Kali Linux, mostrando la información del sistema.  
+
+![Linux Toolkit Run](./images/toolkit_run.png)
+
 📘 Notes / Notas
 
 EN:
