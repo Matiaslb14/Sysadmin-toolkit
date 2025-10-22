@@ -69,4 +69,4 @@ This tool is part of my Linux Automation & Security Toolkit series, focused on p
 ES:
 Esta herramienta forma parte de mi serie Linux Automation & Security Toolkit, enfocada en scripting práctico en Bash para ingenieros de sistemas y redes.
 
-👨‍💻 Developed by Matías Lagos Barra — Linux & Cloud Security Enthusiast.
+👨‍💻 Developed by / Desarrollado por **Matías Lagos Barra** — Cloud & DevSecOps Engineer
