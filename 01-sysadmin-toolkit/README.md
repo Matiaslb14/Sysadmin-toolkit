@@ -36,7 +36,7 @@ Run the script with execution permissions:
 chmod +x toolkit.sh
 ./toolkit.sh
 
-ES:
+**ES:**
 Ejecuta el script con permisos de ejecución:
 
 chmod +x toolkit.sh
@@ -63,10 +63,10 @@ A continuación se muestra un ejemplo del script ejecutándose en Kali Linux, mo
 
 📘 Notes / Notas
 
-EN:
+**EN:**
 This tool is part of my Linux Automation & Security Toolkit series, focused on practical Bash scripting for system and network engineers.
 
-ES:
+**ES:**
 Esta herramienta forma parte de mi serie Linux Automation & Security Toolkit, enfocada en scripting práctico en Bash para ingenieros de sistemas y redes.
 
 👨‍💻 Developed by / Desarrollado por **Matías Lagos Barra** — Cloud & DevSecOps Engineer
